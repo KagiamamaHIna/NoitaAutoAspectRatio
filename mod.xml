@@ -1,0 +1,5 @@
+<Mod
+  name="Auto Aspect Ratio"
+  description="Load into a save file. After setting the resolution, restart the game for changes to take effect\n进入存档，当设置完成分辨率后，重启生效"
+  request_no_api_restrictions="1"
+></Mod>
